@@ -38,6 +38,15 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Fondo
+    uniqueID: 232855323
+    locked: 0
+  - name: Terreno
+    uniqueID: 3076106897
+    locked: 0
+  - name: Juego
+    uniqueID: 3078558753
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
